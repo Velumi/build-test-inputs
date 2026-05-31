@@ -1,0 +1,7 @@
+{
+    "name": "nuxt-basic",
+    "version": "1.0.0",
+    "dependencies": {
+        "nuxt": "^3.16.0"
+    }
+}

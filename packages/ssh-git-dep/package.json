@@ -1,0 +1,10 @@
+{
+    "name": "ssh-git-dep",
+    "version": "1.0.0",
+    "dependencies": {
+        "magic-string": "github:Rich-Harris/magic-string"
+    },
+    "scripts": {
+        "build": "echo BUILD_DONE"
+    }
+}
