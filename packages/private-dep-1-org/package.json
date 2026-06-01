@@ -1,0 +1,8 @@
+{
+    "name": "private-dep-1-org",
+    "version": "1.0.0",
+    "dependencies": {
+        "@herman-templio/test-private-lib": "github:herman-templio/test-private-lib"
+    },
+    "scripts": { "build": "echo BUILD_DONE" }
+}

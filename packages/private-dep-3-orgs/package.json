@@ -1,0 +1,10 @@
+{
+    "name": "private-dep-3-orgs",
+    "version": "1.0.0",
+    "dependencies": {
+        "@herman-templio/test-private-lib": "github:herman-templio/test-private-lib",
+        "@templhosting/test-private-lib": "github:templhosting/test-private-lib",
+        "@velumi/test-private-lib": "github:Velumi/test-private-lib"
+    },
+    "scripts": { "build": "echo BUILD_DONE" }
+}
