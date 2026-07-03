@@ -13,3 +13,4 @@ Minimal packages for templ-sites build pipeline integration tests. Each subdirec
 | `packages/private-dep-2-orgs` | Private deps from two orgs (two tokens) |
 | `packages/private-dep-3-orgs` | Private deps from three orgs (three tokens) |
 | `packages/static-site` | Custom `buildCommand` and `startCommand` — copies static files to `dist/`, serves with `serve` |
+| `packages/astro-basic` | Minimal Astro 4 site — builds to `dist/`, no `start` script (exercises auto-fix deploy test) |

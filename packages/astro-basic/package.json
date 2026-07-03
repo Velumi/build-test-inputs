@@ -1,0 +1,10 @@
+{
+    "name": "astro-basic",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "astro build"
+    },
+    "dependencies": {
+        "astro": "^4.16.18"
+    }
+}
