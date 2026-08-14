@@ -4,6 +4,7 @@
     "description": "Test app that listens on port 3001 by default (ignoring PORT). Used to test env-var-triggered redeployment.",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js"
+        "start": "node server.js",
+        "build": "echo true"
     }
 }
